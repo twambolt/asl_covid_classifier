@@ -1,6 +1,6 @@
 # asl_covid_classifier
 
-This is a repo containing the data used for my senior project that is a work in progress. 
+This is a repo containing the data used for my senior project. 
  
 The link to the Colab notebook where all of my code is written is here: https://colab.research.google.com/drive/1E4cLukZLJ2NkFILD_x7LOoMouX1Ps7hO?usp=sharing
 
